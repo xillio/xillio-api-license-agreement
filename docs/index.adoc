@@ -1,5 +1,6 @@
 [license-agreement]
 = License Agreement
+Xillio <support@xillio.com>
 
 By deploying Xillio API through the AWS Marketplace or in your private infrastructure you agree with the following terms:
 
