@@ -3,8 +3,8 @@
 
 By deploying Xillio API through the AWS Marketplace or in your private infrastructure you agree with the following terms:
 
-- End User License Agreement: link:./XillioAPI.pdf[Download]
-- Service Agreement: link:./XillioAPI.pdf[Download]
+- End User License Agreement: link:/license-agreement/docs/Xillio-API-EULA-07_01_2019.pdf[Download]
+- Terms of Service: link:/license-agreement/docs/Xillio-API-ToS-07_01_2019.pdf[Download]
 
 == Third Party Software
 
