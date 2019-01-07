@@ -1,0 +1,13 @@
+[license-agreement]
+= License Agreement
+
+By deploying Xillio API through the AWS Marketplace or in your private infrastructure you agree with the following terms:
+
+- End User License Agreement: link:./XillioAPI.pdf[Download]
+- Service Agreement: link:./XillioAPI.pdf[Download]
+
+== Third Party Software
+
+Xillio API is made possible by the following third party libraries:
+
+include::./licenses.adoc[]
